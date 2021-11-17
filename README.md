@@ -1,10 +1,7 @@
-# Getting Started with Create React App
-
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
-
-## Available Scripts
-
-In the project directory, you can run:
+# `overview`
+A website developed in react using create react app and consumed public api to show info about cryptocurrencies, exchanges & related news.
+// Live on  
+https://cryptoshell.netlify.app/
 
 ### `npm start`
 
